@@ -1,0 +1,25 @@
+{
+  "name": {
+    "zh-cn": "朴素贝叶斯分类器",
+    "en": "GaussianNB"
+  },
+  "description": {
+    "zh-cn": "Python模式中配合行空板实现贝朴素叶斯分类器的积木",
+    "en": "unihiker GaussianNB"
+  },
+  "author": "liliang",
+  "email": "969316753@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "pyGaussianNB",
+  "platform": ["win","mac","web","linux"],
+  "version": "0.0.1",
+  "asset": {
+	"python": {
+		"dir": "python/",
+		"main": "main.ts",
+		"dependencies": {
+      }
+  }
+}
+}
