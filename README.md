@@ -26,6 +26,8 @@
 ## Summary
 使用Mind+V1.7.2 RC3.0及以上版本包含行空板的版本，在python模式用户库中加载此扩展，连接行空板，可实现朴素贝叶斯分类器功能。
 
+教程：【新课标】信息科技跨学科案例-九年级 人工智能预测出行  https://mc.dfrobot.com.cn/thread-314362-1-1.html
+
 ## Blocks
 
 ![](./python/_images/blocks.png)
